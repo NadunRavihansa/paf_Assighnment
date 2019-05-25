@@ -4,7 +4,7 @@ This is theDelivary managn=ment service part of SellNbuy E-commerce project. whe
 
 We used a several frameworks, that are MySQL Hibernate as an Object-Relational Database, Layer Architecture, Maven Dependency management tool, Eureka API, RESTful API, Bootstrap for interface, Ajax jQuery and JavaScript. The source code will be created in the software IntelliJ IDEA (The Java IDE.)
 
-Run using web service of Eureka Server from "localhost:8000"
+Run using web service of Eureka Server from "localhost:8010"
 
 IDEAs – IntelliJ IDEA
 Tools – MySQL
